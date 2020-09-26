@@ -1,4 +1,4 @@
-# Instant Pot Chicken Breasts with Sun Dried Tomato Cream Sauce
+# Caraotas Negras - Venezuelan Black Beans
 <img src="pics/caraotas-negras.jpg" width="300" />
 
 [Original Link](https://www.myrecipes.com/recipe/simple-black-beans-caraotas-negras)
