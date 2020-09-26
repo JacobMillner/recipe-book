@@ -1,5 +1,5 @@
 # Chicken Nanban
-<img src="pics/chicken-nanban.jpg" width="300" />
+<img src="pics/chicken-nanban.JPG" width="300" />
 
 [Original Link](youtube.com/watch?v=ocXvdprE9Kg)
 
