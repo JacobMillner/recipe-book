@@ -6,13 +6,13 @@
 
 ## Ingredients
 
-1 rice bowl full Hot cooked white rice
-1 Egg
-1 tsp Soy sauce
-1 pack Natto (fermented soy beans)
-1 Chopped green onion
-1 Ground sesame seeds
-1 tsp Sesame oil
+- 1 rice bowl full Hot cooked white rice
+- 1 Egg
+- 1 tsp Soy sauce
+- 1 pack Natto (fermented soy beans)
+- 1 Chopped green onion
+- 1 Ground sesame seeds
+- 1 tsp Sesame oil
 
 ## Directions
 
