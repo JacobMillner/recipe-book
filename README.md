@@ -4,4 +4,4 @@
 
 ### Breakfast
 
-- (Natto Rice)[./breakfast/natto-rice.md]
+- [Natto Rice](breakfast/natto-rice.md)
