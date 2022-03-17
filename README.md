@@ -8,6 +8,8 @@ Delicious meals prepared and eaten by ME.
 
 ## Lunch
 
+- add me!
+
 ## Dinner
 
 - [Chicken Nanban](dinner/chicken-nanban.md)
