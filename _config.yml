@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 name: "Jacob Millner Recipe Book"
 title: null
+github:
+  is_project_page: false
