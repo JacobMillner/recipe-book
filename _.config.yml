@@ -5,3 +5,6 @@ relative_links:
   collections: true
 name: "Jacob Millner Recipe Book"
 title: null
+github:
+  is_project_page: false
+  
